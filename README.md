@@ -1,2 +1,5 @@
-# econ1626-policy-notes
-Policynotes for econ1626
+# Policy notes
+## ECON1626 by [Anannya Saji]
+
+A collection of short notes on AI
+public policy.
